@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra's Algorithm", "Dij
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kruskal's Algorithm", "Kruskal's Algorithm\Kruskal's Algorithm.csproj", "{198C26D2-9886-4B65-BD6B-2B7DDE26498E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prim's Algorithm", "Prim's Algorithm\Prim's Algorithm.csproj", "{8315EBCD-2FB0-4726-B395-2B5317D2AFA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{198C26D2-9886-4B65-BD6B-2B7DDE26498E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{198C26D2-9886-4B65-BD6B-2B7DDE26498E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{198C26D2-9886-4B65-BD6B-2B7DDE26498E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8315EBCD-2FB0-4726-B395-2B5317D2AFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8315EBCD-2FB0-4726-B395-2B5317D2AFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8315EBCD-2FB0-4726-B395-2B5317D2AFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8315EBCD-2FB0-4726-B395-2B5317D2AFA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
