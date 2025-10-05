@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.36105.23 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bellman-Ford", "Bellman-Ford\Bellman-Ford.csproj", "{2E14FFF9-7BAD-4359-A2E3-022E66F26521}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Path", "Longest Path\Longest Path.csproj", "{2A71C5C6-6E9E-4150-BA05-BAF9BB54A3E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2E14FFF9-7BAD-4359-A2E3-022E66F26521}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E14FFF9-7BAD-4359-A2E3-022E66F26521}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E14FFF9-7BAD-4359-A2E3-022E66F26521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A71C5C6-6E9E-4150-BA05-BAF9BB54A3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A71C5C6-6E9E-4150-BA05-BAF9BB54A3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A71C5C6-6E9E-4150-BA05-BAF9BB54A3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A71C5C6-6E9E-4150-BA05-BAF9BB54A3E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
