@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.36105.23 d17.13
+VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Most Reliable Path", "Most Reliable Path\Most Reliable Path.csproj", "{E02642D3-61BA-4047-A6BF-5A8FD8F69B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheap Town Tour", "2. Cheap Town Tour\Cheap Town Tour.csproj", "{9F81AFC7-6A5F-4F76-9433-77BFF0A5D68F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undefined", "Undefined\Undefined.csproj", "{7C2EAA98-E6FB-4F01-8944-FE54DFB1DAD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Big Trip", "Big Trip\Big Trip.csproj", "{620A9E95-FF7C-42E2-AB18-3433DE0A8DEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{E02642D3-61BA-4047-A6BF-5A8FD8F69B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E02642D3-61BA-4047-A6BF-5A8FD8F69B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E02642D3-61BA-4047-A6BF-5A8FD8F69B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F81AFC7-6A5F-4F76-9433-77BFF0A5D68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F81AFC7-6A5F-4F76-9433-77BFF0A5D68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F81AFC7-6A5F-4F76-9433-77BFF0A5D68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F81AFC7-6A5F-4F76-9433-77BFF0A5D68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2EAA98-E6FB-4F01-8944-FE54DFB1DAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2EAA98-E6FB-4F01-8944-FE54DFB1DAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2EAA98-E6FB-4F01-8944-FE54DFB1DAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2EAA98-E6FB-4F01-8944-FE54DFB1DAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620A9E95-FF7C-42E2-AB18-3433DE0A8DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620A9E95-FF7C-42E2-AB18-3433DE0A8DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620A9E95-FF7C-42E2-AB18-3433DE0A8DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620A9E95-FF7C-42E2-AB18-3433DE0A8DEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
