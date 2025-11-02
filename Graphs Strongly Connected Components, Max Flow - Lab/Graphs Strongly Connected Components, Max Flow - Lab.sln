@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.36105.23 d17.13
+VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strongly Connected Components", "Strongly Connected Components\Strongly Connected Components.csproj", "{A036548F-FCA3-4494-A0C6-3D4321A0F6FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Flow", "Max Flow\Max Flow.csproj", "{1E59D6EA-DAF3-4D2A-A30D-F72A77BB76AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A036548F-FCA3-4494-A0C6-3D4321A0F6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A036548F-FCA3-4494-A0C6-3D4321A0F6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A036548F-FCA3-4494-A0C6-3D4321A0F6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E59D6EA-DAF3-4D2A-A30D-F72A77BB76AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E59D6EA-DAF3-4D2A-A30D-F72A77BB76AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E59D6EA-DAF3-4D2A-A30D-F72A77BB76AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E59D6EA-DAF3-4D2A-A30D-F72A77BB76AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
