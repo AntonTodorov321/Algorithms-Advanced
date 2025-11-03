@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strongly Connected Componen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Flow", "Max Flow\Max Flow.csproj", "{1E59D6EA-DAF3-4D2A-A30D-F72A77BB76AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Articulation Points", "Articulation Points\Articulation Points.csproj", "{12B15A80-4610-40F2-985D-F397533F9241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1E59D6EA-DAF3-4D2A-A30D-F72A77BB76AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E59D6EA-DAF3-4D2A-A30D-F72A77BB76AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E59D6EA-DAF3-4D2A-A30D-F72A77BB76AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B15A80-4610-40F2-985D-F397533F9241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B15A80-4610-40F2-985D-F397533F9241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B15A80-4610-40F2-985D-F397533F9241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B15A80-4610-40F2-985D-F397533F9241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
