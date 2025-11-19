@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.36105.23 d17.13
+VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cable Merchant", "Cable Merchant\Cable Merchant.csproj", "{776E1748-E989-4AC7-9303-1855BD916F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battle Points", "Battle Points\Battle Points.csproj", "{FDFFFF29-E4F5-4921-AD64-B8F5DCA0251D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest String Chain", "Longest String Chain\Longest String Chain.csproj", "{DC3BBCBF-E6B7-4A85-922D-006A9B6D9D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Zigzag Subsequence", "Longest Zigzag Subsequence\Longest Zigzag Subsequence.csproj", "{309DA939-F559-4716-9680-0A02FFC0C9B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{776E1748-E989-4AC7-9303-1855BD916F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{776E1748-E989-4AC7-9303-1855BD916F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{776E1748-E989-4AC7-9303-1855BD916F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFFFF29-E4F5-4921-AD64-B8F5DCA0251D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFFFF29-E4F5-4921-AD64-B8F5DCA0251D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFFFF29-E4F5-4921-AD64-B8F5DCA0251D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFFFF29-E4F5-4921-AD64-B8F5DCA0251D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3BBCBF-E6B7-4A85-922D-006A9B6D9D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3BBCBF-E6B7-4A85-922D-006A9B6D9D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3BBCBF-E6B7-4A85-922D-006A9B6D9D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3BBCBF-E6B7-4A85-922D-006A9B6D9D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309DA939-F559-4716-9680-0A02FFC0C9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309DA939-F559-4716-9680-0A02FFC0C9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309DA939-F559-4716-9680-0A02FFC0C9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309DA939-F559-4716-9680-0A02FFC0C9B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

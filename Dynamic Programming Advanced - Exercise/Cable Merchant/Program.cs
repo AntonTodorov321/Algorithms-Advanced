@@ -19,16 +19,11 @@
 
             CutRoad(prices.Count - 1, connectorPrice);
 
-            Console.WriteLine(string.Join(" ",bestPrices.Skip(1)));
+            Console.WriteLine(string.Join(" ", bestPrices.Skip(1)));
         }
 
         private static int CutRoad(int length, int connectorPrice)
         {
-            if (length == 0)
-            {
-                return 0;
-            }
-
             if (bestPrices[length] != 0)
             {
                 return bestPrices[length];
@@ -38,10 +33,10 @@
 
             for (int i = 1; i < length; i++)
             {
-                int currentPrice = 
+                int currentPrice =
                     prices[i] + CutRoad(length - i, connectorPrice) - 2 * connectorPrice;
 
-                if(currentPrice > bestPrice)
+                if (currentPrice > bestPrice)
                 {
                     bestPrice = currentPrice;
                 }
